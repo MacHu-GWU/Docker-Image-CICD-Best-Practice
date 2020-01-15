@@ -6,7 +6,7 @@
     "AWS_ACCOUNT_ID": "110330507156",
     "AWS_REGION": "us-east-1",
     // the github repo url, must ends with .git
-    "GITHUB_URL": "https://github.com/enquizit/Docker-Image-CICD-on-awsBest-Practice.git",
+    "GITHUB_URL": "https://github.com/enquizit/Docker-Image-CICD-on-AWS-Best-Practice.git",
     // the s3 bucket you use to upload cloudformation template, you have to create it before you deploy this solution
     "S3_BUCKET_FOR_DEPLOY": "eq-sanhe-for-everything"
 }
